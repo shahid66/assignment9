@@ -1,0 +1,45 @@
+.fromStyle {
+    background: white;
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 50px;
+    margin-top:100px ;
+}
+
+.fromStyle h3 {
+    padding: 20px 0px;
+}
+
+.fromStyle input {
+    border: none;
+    border-bottom: 1px solid gray;
+    border-radius: 0px;
+}
+
+
+
+
+
+
+
+.fromStyle .form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: none;
+    outline: 0;
+    box-shadow: none;
+}
+
+.fromStyle .form-check {
+    position: relative;
+    display: block;
+    padding-left: 1.25rem;
+    
+}
+
+.forgetpass {
+	position: absolute;
+	top: -28px;
+	right: 1px;
+}

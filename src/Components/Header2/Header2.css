@@ -1,0 +1,7 @@
+.ulMargin{
+    margin-right: 30px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:black !important;
+    font-weight: bold;
+}

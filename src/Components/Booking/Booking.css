@@ -1,0 +1,25 @@
+.bookingFrom{
+    width: 60%;
+    padding: 40px;
+    background: white;
+    margin: 100px 0px;
+}
+.dateField{
+    position: relative;
+}
+.clanderIcon {
+	position: absolute;
+	top: 42px;
+	right: 20px;
+
+}
+.submitbtn{
+    width: 100%;
+}
+.bookingDescription {
+	width: 60%;
+	color: white;
+	margin-left: 133px;
+	padding: 10px;
+	margin-top: 101px;
+}
